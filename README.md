@@ -1,3 +1,4 @@
+
 # BloggApp
 
 ## Project Overview
@@ -9,3 +10,13 @@ And We’ve seen how to wire these two parts together using views to pull data d
 Lastly, we set up the admin interface to make adding new data super easy.
 
 ## Homepage
+![blog-home](https://user-images.githubusercontent.com/72083319/123198690-31917d00-d4cb-11eb-9c55-1ba7c23e0540.PNG)
+
+## Register
+![blog-register](https://user-images.githubusercontent.com/72083319/123198771-49690100-d4cb-11eb-831a-fc70f6dab474.PNG)
+
+## User Profile
+![blog-profile](https://user-images.githubusercontent.com/72083319/123198789-52f26900-d4cb-11eb-9df6-a89a381e95fe.PNG)
+
+## Create New Post
+![blog-newpost](https://user-images.githubusercontent.com/72083319/123198916-8e8d3300-d4cb-11eb-9983-b14a2b330a2e.PNG)
